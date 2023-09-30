@@ -3,7 +3,7 @@ name: Build and Deploy MkDocs
 on:
   push:
     branches:
-      - source  # Or whatever branch you're pushing changes to
+      - main  # Or whatever branch you're pushing changes to
 
 jobs:
   build-deploy:
