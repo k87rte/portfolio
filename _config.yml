@@ -15,7 +15,6 @@ markdown_extensions:
   - pymdownx.snippets
 
 nav:
-  - Introduction: index.md
-  - Getting Started: getting-started.md
+
   - User Guide:
      - aboutme: aboutme.md
